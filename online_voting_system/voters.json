@@ -1,0 +1,58 @@
+{
+    "voter123": {
+        "password": "1234",
+        "voted": false
+    },
+    "12345": {
+        "password": "pbkdf2:sha256:260000$NiOs53w6naycTia7$5021d844075ee0992aaba83ebe887f9ff61fd233f6e7867fc32c2d983f7f4051",
+        "voted": false
+    },
+    "123456": {
+        "password": "pbkdf2:sha256:260000$MRkT4S9wzabCG5WR$1d5efa028473f2b18ca5a9ce724e5852fbd0b333cf9447080a8c27b77a413728",
+        "voted": true
+    },
+    "54321": {
+        "password": "pbkdf2:sha256:260000$62mRShgezpM5SiAX$d93143c43f01708047e9cdf49e9c7d5622381184c6fd4a2c129e1162b275d6cb",
+        "voted": true
+    },
+    "11111": {
+        "password": "pbkdf2:sha256:260000$SgY7zPLDdU3ikE29$b0d0365d70928ad8f820f9a1c5866e60625f43554900cad74e3506b5acb07f49",
+        "voted": true
+    },
+    "2222": {
+        "password": "pbkdf2:sha256:260000$Ue1axUFbRskQolRk$019ae53d1869e4b352457d20d39e9c7a55b7b3de69c4a3baff0fbc6477897cce",
+        "voted": true
+    },
+    "3333": {
+        "password": "pbkdf2:sha256:260000$BtjMut3XGJ7lHPDW$278cf0b92a6dce2043553e90d55167e59db348b7c560c707199f5fd5532cbb92",
+        "voted": true
+    },
+    "4444": {
+        "password": "pbkdf2:sha256:260000$vEJOnZ6INqhJGFbq$3a9a101037fd9fc1ac01b11997d9a575e113bef3e1df8a6c1430306ab54993f9",
+        "voted": true
+    },
+    "5656": {
+        "password": "pbkdf2:sha256:260000$KqvlT37ZBkMrbhvv$f68a8a55b6067d5a3241745d3efc9ce1caa60a6cf6c24a8913da58ae13f6a54c",
+        "voted": false
+    },
+    "3434": {
+        "password": "pbkdf2:sha256:260000$TyEpYhRJnUvHwGwe$258c59f4d0947c1d124ae96f66e4e1b1ea71756d6b591d782ff27b51b93a8a15",
+        "voted": true
+    },
+    "7676": {
+        "password": "pbkdf2:sha256:260000$H1Ie2wOJ8ErcbUqV$5c6242c7917820396fa4bcddebe0783d0bf525b3482156e79c492d2f8be41568",
+        "voted": true
+    },
+    "6464": {
+        "password": "pbkdf2:sha256:260000$E567t77mRAw5DP6h$a0402f5d1548b630dcf4a1b7a617ea0587603eb37081869143f82d4d394187e1",
+        "voted": true
+    },
+    "0987": {
+        "password": "pbkdf2:sha256:260000$dd6L9QLv29Zrpdjb$723986e5be67145f4b09969d787a82af28726a48f7eb3bc6830b1689632c7bdb",
+        "voted": true
+    },
+    "66666": {
+        "password": "pbkdf2:sha256:260000$gR4lwbuaPrOWR4W0$dc6fce20812fcf42b3dc9596a2d8db5ee0f869cdd80c75775ac2f0c8ecbbf3a8",
+        "voted": true
+    }
+}
